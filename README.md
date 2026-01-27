@@ -17,14 +17,12 @@
   <tr>
     <!-- LEFT COLUMN: Narrative & Stack (45%) -->
     <td width="45%" valign="top">
-      
       <h3>👨‍� About Me</h3>
       <br />
       🔭 I'm currently working on <b>Advanced Web Apps & AI</b><br /><br />
       🌱 I'm currently learning <b>Generative AI, Large Language Models, and System Design</b><br /><br />
       💬 Ask me about <b>React, Next.js, Node.js, and Python</b><br /><br />
       ⚡ Fun fact: <b>I love turning coffee into code! ☕</b><br /><br />
-      
       <div align="left">
         <a href="https://linkedin.com/in/yourprofile">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,41 +31,30 @@
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
         </a>
       </div>
-
       <br />
-
       <h3>🛠️ Tech Stack</h3>
       <div align="left">
         <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,nodejs,django,tensorflow&perline=5" alt="Tech Stack" />
       </div>
-
     </td>
-
     <!-- RIGHT COLUMN: Data Center (55%) -->
     <td width="55%" valign="top">
-
       <!-- Stats Card -->
       <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Rana0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" width="100%" />
       </div>
-
       <br />
-
       <!-- Top Languages (Bar Chart Style) -->
       <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="100%" />
       </div>
-
       <br />
-
       <!-- Streak Stats (Gold Theme) -->
       <!-- Theme: 'tokyonight' for base, but overridden with Fire/Ring colors #d65a31 (Burnt Orange/Gold) -->
       <div align="center">
       <img src="https://github-readme-streak-stats.demolab.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117&fire=d65a31&ring=d65a31&currStreakNum=d65a31" alt="Streak" width="100%" />
       </div>
-
     </td>
-
   </tr>
 </table>
 
