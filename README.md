@@ -33,6 +33,9 @@
     <td width="45%" valign="top" align="center">
       <h3>📈 At a Glance</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=Rana0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" width="100%" />
+      <!-- Visitor Count Badge Compact -->
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=Rana0001&style=flat-square&color=blue" alt="Views" />
     </td>
   </tr>
 
@@ -46,7 +49,8 @@
     </td>
     <td width="45%" valign="top" align="center">
       <h3>📊 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="100%" />
+      <!-- Switched to Summary Cards for unified UI theme with Productivity card -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rana0001&theme=tokyonight" alt="Top Langs" width="100%" />
     </td>
   </tr>
   
@@ -54,7 +58,8 @@
   <tr>
     <td width="55%" valign="top" align="center">
       <h3>🔥 Commit Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="100%" />
+      <!-- Fixed: Using demolab domain for stability -->
+      <img src="https://github-readme-streak-stats.demolab.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="100%" />
     </td>
     <td width="45%" valign="top" align="center">
       <h3>⏰ Productivity</h3>
@@ -84,5 +89,5 @@
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Rana0001&style=flat-square&color=blue" alt="Views" />
+  Thanks for visiting!
 </div>
