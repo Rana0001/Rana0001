@@ -48,10 +48,6 @@
           <td><img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgres,mongodb" alt="Backend" /></td>
         </tr>
         <tr>
-          <td valign="middle"><b>AI / ML</b></td>
-          <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI" /></td>
-        </tr>
-        <tr>
           <td valign="middle"><b>Tools</b></td>
           <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" alt="Tools" /></td>
         </tr>
@@ -73,6 +69,11 @@
       <div align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana0001&theme=tokyonight&utcOffset=8" alt="Productivity" width="100%" />
       </div>
+      <br />
+      <!-- Streak Stats -->
+      <div align="center">
+      <img src="https://github-readme-streak-stats.demolab.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117&fire=EEBF00&ring=EEBF00&currStreakNum=EEBF00" alt="Streak" width="100%" />
+      </div>
     </td>
   </tr>
 </table>
@@ -86,20 +87,6 @@
 </div>
 
 <br />
-
-<!-- Trophies Footer -->
-<div align="center">
-  <h3>🏆 Hall of Fame</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rana0001&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rana0001&style=flat-square&color=eebf00" alt="Views" />
-</div>
 
 <div align="center">
   <br/>
