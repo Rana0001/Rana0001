@@ -10,81 +10,70 @@
 
 <br/>
 
-<!-- Bento Grid Layout -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  
-  <!-- Row 1: About & Stats -->
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 About Me</h3>
-      <br/>
-       🔭 I'm working on <b>Advanced Web Apps & AI</b><br/>
-       🌱 Learning <b>Generative AI, LLMs & System Design</b><br/>
-       💬 Ask me about <b>React, Next.js, Node, Python</b><br/>
-       ⚡ Fun fact: <b>I love turning coffee into code! ☕</b><br/>
-       <br/>
-       <a href="https://linkedin.com/in/yourprofile">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-       </a>
-       <a href="https://twitter.com/yourhandle">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-       </a>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>📈 At a Glance</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rana0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" width="100%" />
-      <!-- Visitor Count Badge Compact -->
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=Rana0001&style=flat-square&color=blue" alt="Views" />
-    </td>
-  </tr>
-
-  <!-- Row 2: Tech Stack & Top Langs -->
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🛠️ Tech Stack</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,nodejs,django,tensorflow&perline=5" alt="Tech Stack" />
-      </div>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>📊 Top Languages</h3>
-      <!-- Switched to Summary Cards for unified UI theme with Productivity card -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rana0001&theme=tokyonight" alt="Top Langs" width="100%" />
-    </td>
-  </tr>
-  
-  <!-- Row 3: Streak & Productive Time -->
-  <tr>
-    <td width="55%" valign="top" align="center">
-      <h3>🔥 Commit Streak</h3>
-      <!-- Fixed: Using demolab domain for stability -->
-      <img src="https://github-readme-streak-stats.demolab.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="100%" />
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>⏰ Productivity</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana0001&theme=tokyonight&utcOffset=8" alt="Productivity" width="100%" />
-    </td>
-  </tr>
-
-  <!-- Row 4: Contribution Snake -->
-  <tr>
-    <td colspan="2" align="center">
-      <h3>🐍 Contribution Graph</h3>
-      <img src="https://github.com/Rana0001/Rana0001/raw/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
-    </td>
-  </tr>
-
-</table>
+<!-- About Me Section -->
+<div align="center">
+  <h3>🚀 About Me</h3>
+  🔭 I'm working on <b>Advanced Web Apps & AI</b><br/>
+  🌱 Learning <b>Generative AI, LLMs & System Design</b><br/>
+  💬 Ask me about <b>React, Next.js, Node, Python</b><br/>
+  ⚡ Fun fact: <b>I love turning coffee into code! ☕</b><br/>
+  <br/>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 <br/>
 
-<!-- Footer: Trophies -->
-<h3 align="center">🏆 Hall of Fame</h3>
+<!-- Stats Stack (Reference Design) -->
 <div align="center">
+  
+  <h3>📈 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rana0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  
+  <br/><br/>
+  
+  <!-- Streak Stats (Orange Ring) -->
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117&fire=FF4500&ring=FF4500&currStreakNum=FF4500" alt="Streak" />
+
+</div>
+
+<br/>
+
+<!-- Tech Stack -->
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,nodejs,django,tensorflow&perline=9" alt="Tech Stack" />
+</div>
+
+<br/>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <img src="https://github.com/Rana0001/Rana0001/raw/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+</div>
+
+<br/>
+
+<!-- Footer: Trophies & Views -->
+<div align="center">
+  <h3>🏆 Hall of Fame</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Rana0001&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
   </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Rana0001&style=flat-square&color=blue" alt="Views" />
 </div>
 
 <div align="center">
