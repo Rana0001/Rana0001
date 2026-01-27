@@ -69,7 +69,7 @@
       <br />
       <!-- Streak Stats -->
       <div align="center">
-      <img src="https://streak-stats.demolab.com/?user=Rana0001&theme=github-dark-blue" alt="Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=Rana0001&theme=dark&hide_border=true" alt="Streak" width="100%" />
       </div>
     </td>
   </tr>
