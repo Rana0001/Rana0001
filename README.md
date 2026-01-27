@@ -54,22 +54,22 @@
     <td width="50%" valign="top">
       <!-- Stats Card -->
       <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Rana0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Rana0001&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" width="100%" />
       </div>
       <br />
       <!-- Top Languages (Bar Chart Style) -->
       <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana0001&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="100%" />
       </div>
       <br />
       <!-- Productivity -->
       <div align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana0001&theme=tokyonight&utcOffset=8" alt="Productivity" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana0001&theme=dark&utcOffset=8" alt="Productivity" width="100%" />
       </div>
       <br />
       <!-- Streak Stats -->
       <div align="center">
-      <img src="https://github-readme-streak-stats.demolab.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117&fire=EEBF00&ring=EEBF00&currStreakNum=EEBF00" alt="Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.demolab.com/?user=Rana0001&theme=dark&hide_border=true" alt="Streak" width="100%" />
       </div>
     </td>
   </tr>
