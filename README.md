@@ -5,16 +5,16 @@
 </div>
 
 <div align="center">
-Feel free to check out my repositories and contribute!
+  <img src="https://komarev.com/ghpvc/?username=Rana0001&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
 
-### 🏆 Github Trophies
+### 🏆 Achievements
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana0001&theme=dracula&column=7" alt="Rana0001's trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rana0001&theme=dracula&column=7&margin-w=15&margin-h=15" alt="Rana0001's trophies" />
 </a>
 </div>
 
@@ -51,17 +51,28 @@ Feel free to check out my repositories and contribute!
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
 
+<!-- General Stats & Top Langs -->
 <img src="https://github-readme-stats.vercel.app/api?username=Rana0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rana0001's stats" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 <br/>
 
+<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117" alt="Rana0001's streak" />
+
+<br/>
+
+<!-- Productive Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana0001&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana0001&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -71,7 +82,6 @@ Feel free to check out my repositories and contribute!
 
 <div align="center">
   <img src="https://github.com/Rana0001/Rana0001/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <!-- Note: This assumes you have the snake action set up to generate this SVG to an 'output' branch. If not, this might be broken until setup. -->
 </div>
 
 ---
