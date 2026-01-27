@@ -10,9 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Rana0001&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
----
-
-### 🏆 Achievements
+<br/>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -20,76 +18,93 @@
   </a>
 </div>
 
----
-
-### 📜 About Me
-
-- 🔭 I’m currently working on **Advanced Web Applications & AI Integration**
-- 🌱 I’m currently learning **Generative AI, Large Language Models, and System Design**
-- 💬 Ask me about **React, Next.js, Node.js, and Python**
-- ⚡ Fun fact: **I love turning coffee into code! ☕**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**  
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
-<br/>
 <br/>
 
-**Backend & AI**  
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
+<!-- Dashboard Table -->
 <table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Rana0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rana0001's stats" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</td>
-</tr>
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <h3>📜 About Me</h3>
+      <br/>
+      - 🔭 Currently working on <b>Advanced Web Applications & AI Integration</b><br/>
+      - 🌱 Learning <b>Generative AI, LLMs, and System Design</b><br/>
+      - 💬 Ask me about <b>React, Next.js, Node.js, and Python</b><br/>
+      - ⚡ Fun fact: <b>I love turning coffee into code! ☕</b><br/>
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="100%" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rana0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" width="100%" />
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana0001&theme=tokyonight&hide_border=true&background=0D1117" alt="Rana0001's streak" />
+### 🛠️ Tech Stack
 
-<br/>
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana0001&theme=tokyonight&utcOffset=8" alt="Productive Time" />
-
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+        <br/>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+        <br/>TypeScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+        <br/>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="40" height="40" />
+        <br/>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="40" height="40" />
+        <br/>Tailwind
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+        <br/>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="40" height="40" />
+        <br/>Node.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=django" alt="icon" width="40" height="40" />
+        <br/>Django
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
+
+<!-- Productivity & Activity -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana0001&theme=tokyonight&utcOffset=8" alt="Productive Time" width="100%" />
+    </td>
+    <td align="center" width="50%">
+       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana0001&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/Rana0001/Rana0001/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Rana0001/Rana0001/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br/>
