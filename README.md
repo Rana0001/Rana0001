@@ -68,7 +68,9 @@
       </div>
       <br />
       <!-- Streak Stats -->
-      ![GitHub Stats](https://streak-stats.demolab.com?user=Rana0001&theme=default&hide_border=true)
+      <div align="center">
+      <img src="https://streak-stats.demolab.com?user=Rana0001&theme=default&hide_border=true" alt="Rana0001's GitHub Stats" />
+      </div>
     </td>
   </tr>
 </table>
